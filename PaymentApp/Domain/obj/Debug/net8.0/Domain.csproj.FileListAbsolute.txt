@@ -1,0 +1,36 @@
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Payment App\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Payment App\Domain\bin\Debug\net8.0\Domain.dll
+D:\Payment App\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Payment App\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Payment App\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payment App\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Payment App\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Payment App\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Payment App\Domain\obj\Debug\net8.0\Domain.dll
+D:\Payment App\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Payment App\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Payment App\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Payment App identity login\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Payment App identity login\Domain\bin\Debug\net8.0\Domain.dll
+D:\Payment App identity login\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Payment App identity login\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Payment App identity login\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payment App identity login\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Payment App identity login\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Payment App identity login\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Payment App identity login\Domain\obj\Debug\net8.0\Domain.dll
+D:\Payment App identity login\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Payment App identity login\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Payment App identity login\Domain\obj\Debug\net8.0\ref\Domain.dll

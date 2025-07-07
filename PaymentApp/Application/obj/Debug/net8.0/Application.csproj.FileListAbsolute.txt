@@ -1,0 +1,51 @@
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\bin\Debug\net8.0\Application.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Payment App\Application\bin\Debug\net8.0\Application.deps.json
+D:\Payment App\Application\bin\Debug\net8.0\Application.dll
+D:\Payment App\Application\bin\Debug\net8.0\Application.pdb
+D:\Payment App\Application\bin\Debug\net8.0\Domain.dll
+D:\Payment App\Application\bin\Debug\net8.0\Infrastructure.dll
+D:\Payment App\Application\bin\Debug\net8.0\Domain.pdb
+D:\Payment App\Application\bin\Debug\net8.0\Infrastructure.pdb
+D:\Payment App\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Payment App\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payment App\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Payment App\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Payment App\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Payment App\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Payment App\Application\obj\Debug\net8.0\Application.dll
+D:\Payment App\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Payment App\Application\obj\Debug\net8.0\Application.pdb
+D:\Payment App\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Payment App identity login\Application\bin\Debug\net8.0\Application.deps.json
+D:\Payment App identity login\Application\bin\Debug\net8.0\Application.dll
+D:\Payment App identity login\Application\bin\Debug\net8.0\Application.pdb
+D:\Payment App identity login\Application\bin\Debug\net8.0\Domain.dll
+D:\Payment App identity login\Application\bin\Debug\net8.0\Infrastructure.dll
+D:\Payment App identity login\Application\bin\Debug\net8.0\Domain.pdb
+D:\Payment App identity login\Application\bin\Debug\net8.0\Infrastructure.pdb
+D:\Payment App identity login\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Payment App identity login\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payment App identity login\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Payment App identity login\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Payment App identity login\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Payment App identity login\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Payment App identity login\Application\obj\Debug\net8.0\Application.dll
+D:\Payment App identity login\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Payment App identity login\Application\obj\Debug\net8.0\Application.pdb
+D:\Payment App identity login\Application\obj\Debug\net8.0\ref\Application.dll

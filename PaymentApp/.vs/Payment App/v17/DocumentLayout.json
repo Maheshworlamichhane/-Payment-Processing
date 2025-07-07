@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Payment App identity login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D55BB6-FC3F-4DC1-AF79-11BD6E2F8FAE}|Payment App\\Payment App.csproj|d:\\payment app identity login\\payment app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D55BB6-FC3F-4DC1-AF79-11BD6E2F8FAE}|Payment App\\Payment App.csproj|solutionrelative:payment app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D55BB6-FC3F-4DC1-AF79-11BD6E2F8FAE}|Payment App\\Payment App.csproj|d:\\payment app identity login\\payment app\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D55BB6-FC3F-4DC1-AF79-11BD6E2F8FAE}|Payment App\\Payment App.csproj|solutionrelative:payment app\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|d:\\payment app identity login\\application\\paymentservice\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|solutionrelative:application\\paymentservice\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|d:\\payment app identity login\\application\\event\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|solutionrelative:application\\event\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23EBB5-B18D-4D77-B9C7-D9DEED24D168}|Domain\\Domain.csproj|d:\\payment app identity login\\domain\\events\\paymentinitiatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23EBB5-B18D-4D77-B9C7-D9DEED24D168}|Domain\\Domain.csproj|solutionrelative:domain\\events\\paymentinitiatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23EBB5-B18D-4D77-B9C7-D9DEED24D168}|Domain\\Domain.csproj|d:\\payment app identity login\\domain\\dtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23EBB5-B18D-4D77-B9C7-D9DEED24D168}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE829BF9-2D90-46B7-BF2A-5343A65FE6E4}|Infrastructure\\Infrastructure.csproj|d:\\payment app identity login\\infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE829BF9-2D90-46B7-BF2A-5343A65FE6E4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23EBB5-B18D-4D77-B9C7-D9DEED24D168}|Domain\\Domain.csproj|d:\\payment app identity login\\domain\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23EBB5-B18D-4D77-B9C7-D9DEED24D168}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|d:\\payment app identity login\\application\\transactions\\gettransactionsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|solutionrelative:application\\transactions\\gettransactionsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D55BB6-FC3F-4DC1-AF79-11BD6E2F8FAE}|Payment App\\Payment App.csproj|d:\\payment app identity login\\payment app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D55BB6-FC3F-4DC1-AF79-11BD6E2F8FAE}|Payment App\\Payment App.csproj|solutionrelative:payment app\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|d:\\payment app identity login\\application\\ipaymentservice\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|solutionrelative:application\\ipaymentservice\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|d:\\payment app identity login\\application\\event\\kafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|solutionrelative:application\\event\\kafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA23EBB5-B18D-4D77-B9C7-D9DEED24D168}|Domain\\Domain.csproj|d:\\payment app identity login\\domain\\models\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA23EBB5-B18D-4D77-B9C7-D9DEED24D168}|Domain\\Domain.csproj|solutionrelative:domain\\models\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D55BB6-FC3F-4DC1-AF79-11BD6E2F8FAE}|Payment App\\Payment App.csproj|d:\\payment app identity login\\payment app\\controllers\\transactionscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D55BB6-FC3F-4DC1-AF79-11BD6E2F8FAE}|Payment App\\Payment App.csproj|solutionrelative:payment app\\controllers\\transactionscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|d:\\payment app identity login\\application\\validator\\paymentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB4B385-BCAD-43DD-A81D-DA43B1D177B7}|Application\\Application.csproj|solutionrelative:application\\validator\\paymentrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentInitiatedEvent.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Domain\\Events\\PaymentInitiatedEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\PaymentInitiatedEvent.cs",
+              "ToolTip": "D:\\Payment App identity login\\Domain\\Events\\PaymentInitiatedEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\PaymentInitiatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:50:48.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\ApplicationUser.cs",
+              "ToolTip": "D:\\Payment App identity login\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:50:41.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Domain\\DTOs\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\TransactionDto.cs",
+              "ToolTip": "D:\\Payment App identity login\\Domain\\DTOs\\TransactionDto.cs",
+              "RelativeToolTip": "Domain\\DTOs\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:29:36.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Application\\Event\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "Application\\Event\\KafkaConsumerService.cs",
+              "ToolTip": "D:\\Payment App identity login\\Application\\Event\\KafkaConsumerService.cs",
+              "RelativeToolTip": "Application\\Event\\KafkaConsumerService.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwIQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:17:46.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Domain\\Models\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\EmailSetting.cs",
+              "ToolTip": "D:\\Payment App identity login\\Domain\\Models\\EmailSetting.cs",
+              "RelativeToolTip": "Domain\\Models\\EmailSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:13:56.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Application\\PaymentService\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Application\\PaymentService\\PaymentService.cs",
+              "ToolTip": "D:\\Payment App identity login\\Application\\PaymentService\\PaymentService.cs",
+              "RelativeToolTip": "Application\\PaymentService\\PaymentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:05:30.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Payment App\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Payment App\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Payment App identity login\\Payment App\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Payment App\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwEgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:21:16.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Payment App\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Payment App\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\Payment App identity login\\Payment App\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Payment App\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:21:16.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Payment App\\Program.cs",
+              "RelativeDocumentMoniker": "Payment App\\Program.cs",
+              "ToolTip": "D:\\Payment App identity login\\Payment App\\Program.cs",
+              "RelativeToolTip": "Payment App\\Program.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAswFUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:38:56.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentRequestDto.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Domain\\DTOs\\PaymentRequestDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\PaymentRequestDto.cs",
+              "ToolTip": "D:\\Payment App identity login\\Domain\\DTOs\\PaymentRequestDto.cs",
+              "RelativeToolTip": "Domain\\DTOs\\PaymentRequestDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:50:54.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Application\\IPaymentService\\IPayment.cs",
+              "RelativeDocumentMoniker": "Application\\IPaymentService\\IPayment.cs",
+              "ToolTip": "D:\\Payment App identity login\\Application\\IPaymentService\\IPayment.cs",
+              "RelativeToolTip": "Application\\IPaymentService\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:59:29.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetTransactionsQueryHandler.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Application\\Transactions\\GetTransactionsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Transactions\\GetTransactionsQueryHandler.cs",
+              "ToolTip": "D:\\Payment App identity login\\Application\\Transactions\\GetTransactionsQueryHandler.cs",
+              "RelativeToolTip": "Application\\Transactions\\GetTransactionsQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:21:16.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KafkaPublisher.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Application\\Event\\KafkaPublisher.cs",
+              "RelativeDocumentMoniker": "Application\\Event\\KafkaPublisher.cs",
+              "ToolTip": "D:\\Payment App identity login\\Application\\Event\\KafkaPublisher.cs",
+              "RelativeToolTip": "Application\\Event\\KafkaPublisher.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:26:49.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentRequestValidator.cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Application\\Validator\\PaymentRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validator\\PaymentRequestValidator.cs",
+              "ToolTip": "D:\\Payment App identity login\\Application\\Validator\\PaymentRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validator\\PaymentRequestValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:06:04.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionsController .cs",
+              "DocumentMoniker": "D:\\Payment App identity login\\Payment App\\Controllers\\TransactionsController .cs",
+              "RelativeDocumentMoniker": "Payment App\\Controllers\\TransactionsController .cs",
+              "ToolTip": "D:\\Payment App identity login\\Payment App\\Controllers\\TransactionsController .cs",
+              "RelativeToolTip": "Payment App\\Controllers\\TransactionsController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:21:16.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

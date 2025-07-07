@@ -1,0 +1,32 @@
+<!-- <p>register works!</p>
+<form>
+  <label>
+    Email:
+    <input type="text" name="email" />
+  </label>
+  <br />
+  <label>
+    Password:
+    <input type="password" name="password" />
+  </label>
+  <br />
+  <button type="submit">Register</button>
+</form> -->
+
+<h2>Register</h2>
+
+<form (ngSubmit)="onRegister()">
+  <label>
+    Email:
+    <input type="text" name="email" [(ngModel)]="registerData.email" />
+  </label>
+  <br />
+
+  <label>
+    Password:
+    <input type="password" name="password" [(ngModel)]="registerData.password" />
+  </label>
+  <br />
+
+  <button type="submit">Register</button>
+</form>

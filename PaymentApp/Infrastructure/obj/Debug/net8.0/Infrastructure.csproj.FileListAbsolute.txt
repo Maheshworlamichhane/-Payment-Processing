@@ -1,0 +1,51 @@
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Maheshwor Lamichhane\source\repos\Payment App\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Payment App\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Payment App\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Payment App\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Payment App\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Payment App\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Payment App\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Payment App\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Payment App\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Payment App\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Payment App\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Payment App identity login\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Payment App identity login\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Payment App identity login\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Payment App identity login\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Payment App identity login\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Payment App identity login\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Payment App identity login\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

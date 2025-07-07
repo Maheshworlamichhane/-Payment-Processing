@@ -1,0 +1,78 @@
+// import { Component } from '@angular/core';
+// import { HttpClient } from '@angular/common/http';
+// import { FormsModule } from '@angular/forms';
+// @Component({
+//   selector: 'app-login',
+//     standalone: true,            
+//   imports: [FormsModule],
+//   templateUrl: './login.html',
+//   styleUrl: './login.css'
+// })
+// export class Login {
+// loginData = {
+//     email: '',
+//     password: ''
+//   };
+//   constructor(private http: HttpClient) {}
+
+//   onSubmit() {
+
+//     console.log('Sending login request:', this.loginData);
+
+// this.http.post('https://localhost:7039/api/Auth/login', this.loginData)
+//   .subscribe({
+//     next: (res: any) => {
+//       console.log('Login successful', res);
+
+//       alert ("Login Success");
+//         // Navigate to dashboard after successful login
+//       this.router.navigate(['/dashboard']);
+//     },
+//     error: (err) => {
+//       console.error('Login failed', err);
+//     }
+//   });
+//   }
+// }
+import { Component } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
+import { Router } from '@angular/router';
+
+@Component({
+  selector: 'app-login',
+  standalone: true,
+  imports: [FormsModule],
+  templateUrl: './login.html',
+  styleUrls: ['./login.css']
+})
+export class Login {
+  loginData = {
+    email: '',
+    password: ''
+  };
+
+  constructor(private http: HttpClient, private router: Router) {}
+
+  onSubmit() {
+    console.log('Sending login request:', this.loginData);
+
+    this.http.post('https://localhost:7039/api/Auth/login', this.loginData)
+      .subscribe({
+        next: (res: any) => {
+          console.log('Login successful', res);
+          alert("Login Success");
+          localStorage.setItem('token', res.token); // or response.jwt, depending on your API
+          // Navigate to dashboard
+          localStorage.setItem('isLoggedIn', 'true');
+          this.router.navigate(['/dashboard']);
+
+          
+        },
+        error: (err) => {
+          console.error('Login failed', err);
+          alert("Login Failed");
+        }
+      });
+  }
+}

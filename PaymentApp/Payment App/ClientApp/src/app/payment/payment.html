@@ -1,0 +1,120 @@
+<form #paymentForm="ngForm" (ngSubmit)="onSubmit(paymentForm)">
+  <h2>Payment Form</h2>
+
+  <!-- Amount -->
+  <label>
+    Amount:
+    <input
+      type="number"
+      name="amount"
+      [(ngModel)]="amount"
+      required
+      min="1"
+      #amountRef="ngModel"
+    />
+  </label>
+  <div *ngIf="amountRef.invalid && amountRef.touched" style="color:red">
+    Amount is required and must be at least 1.
+  </div>
+
+  <!-- Currency -->
+  <label>
+    Currency:
+    <select name="currency" [(ngModel)]="currency" required>
+      <option *ngFor="let cur of currencies" [value]="cur">{{ cur }}</option>
+    </select>
+  </label>
+
+  <h3>Customer Details</h3>
+
+  <!-- Name -->
+  <label>
+    Name:
+    <input
+      type="text"
+      name="name"
+      [(ngModel)]="name"
+      required
+      minlength="2"
+      #nameRef="ngModel"
+    />
+  </label>
+  <div *ngIf="nameRef.invalid && nameRef.touched" style="color:red">
+    Name is required (min 2 characters).
+  </div>
+
+  <!-- Email -->
+  <label>
+    Email:
+    <input
+      type="email"
+      name="email"
+      [(ngModel)]="email"
+      required
+      email
+      #emailRef="ngModel"
+    />
+  </label>
+  <div *ngIf="emailRef.invalid && emailRef.touched" style="color:red">
+    Valid email is required.
+  </div>
+
+  <h3>Payment Method</h3>
+
+  <!-- Payment Method -->
+  <label>
+    <input
+      type="radio"
+      name="paymentMethod"
+      value="Card"
+      [(ngModel)]="paymentMethod"
+      required
+    />
+    Card
+  </label>
+  <label>
+    <input
+      type="radio"
+      name="paymentMethod"
+      value="BankTransfer"
+      [(ngModel)]="paymentMethod"
+      required
+    />
+    Bank Transfer
+  </label>
+
+  <!-- Shared Field for Card or Bank -->
+  <div *ngIf="paymentMethod">
+    <h4>{{ paymentMethod === 'Card' ? 'Card Number' : 'Bank Account Number' }}</h4>
+    <label>
+      <input
+        type="text"
+        name="cardOrAccountNumber"
+        [(ngModel)]="cardOrAccountNumber"
+        required
+        minlength="12"
+        maxlength="19"
+        pattern="^[0-9]*$"
+        #cardOrAccountNumberRef="ngModel"
+      />
+    </label>
+    <div *ngIf="cardOrAccountNumberRef.invalid && cardOrAccountNumberRef.touched" style="color:red">
+      {{ paymentMethod === 'Card' ? 'Card' : 'Account' }} number must be 12–19 digits.
+    </div>
+  </div>
+
+  <!-- Description -->
+  <label>
+    Description:
+    <textarea
+      name="description"
+      [(ngModel)]="description"
+      rows="3"
+      maxlength="500"
+      placeholder="Enter payment description (optional)"
+    ></textarea>
+  </label>
+
+
+  <button type="submit" [disabled]="paymentForm.invalid">Submit Payment</button>
+</form>
