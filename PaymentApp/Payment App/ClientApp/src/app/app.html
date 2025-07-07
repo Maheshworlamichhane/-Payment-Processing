@@ -1,16 +1,4 @@
 <!-- <nav class="navbar">
-  <div class="nav-brand">MyApp</div>
-  <ul class="nav-links">
-    <li><a href="/login" (click)="onLoginClick()">Login</a></li>
-    <li><a href="/register" (click)="onRegisterClick()">Register</a></li>
-  </ul>
-</nav>
-
-<router-outlet></router-outlet>
-
- -->
-
-<nav class="navbar">
   <div class="nav-left" style="display: flex; gap: 1rem; align-items: center;">
     <div class="nav-brand">MyApp</div>
     <ul class="nav-links" style="display: flex; gap: 1rem; list-style: none; margin: 0; padding: 0;">
@@ -27,4 +15,23 @@
 </nav>
 
 <router-outlet></router-outlet>
+ -->
 
+
+ <nav class="navbar">
+  <div class="nav-left" style="display: flex; gap: 1rem; align-items: center;">
+    <div class="nav-brand">MyApp</div>
+    <ul class="nav-links" style="display: flex; gap: 1rem; list-style: none; margin: 0; padding: 0;">
+      <li *ngIf="isLoggedIn && isUser"><a href="#" (click)="goToPaymentForm()">Payment Form</a></li>
+      <li *ngIf="isLoggedIn && isUser"><a href="#" (click)="goToTransactionHistoryIndividual()">Transaction History</a></li> 
+      <li *ngIf="isLoggedIn && isAdmin"><a href="#" (click)="goToTransactionHistory()">All Transactions (Admin)</a></li> 
+    </ul>
+  </div>
+
+  <ul class="nav-links" style="display: flex; gap: 1rem; list-style: none; margin: 0; padding: 0;">
+    <li *ngIf="!isLoggedIn"><a href="#" (click)="onLoginClick()">Login</a></li>
+    <li *ngIf="!isLoggedIn"><a href="#" (click)="onRegisterClick()">Register</a></li>
+    <li *ngIf="isLoggedIn"><a href="#" (click)="onLogout()">Logout</a></li>
+  </ul>
+</nav>
+<router-outlet></router-outlet>
