@@ -22,3 +22,29 @@ BEGIN
       (@Status IS NULL OR Status = @Status)
       AND (@UserId IS NULL OR UserId = @UserId)
 END
+
+
+///////////For Individual Payment History////////////
+
+USE [Payment]
+GO
+/****** Object:  StoredProcedure [dbo].[GetTransactionById]    Script Date: 7/8/2025 10:02:59 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROCEDURE [dbo].[GetTransactionById]
+    @UserId nvarchar(70)
+AS
+BEGIN
+    SELECT 
+        t.TransactionId,
+        t.UserId,
+        t.Amount,
+        t.Status
+    FROM Transactions t
+    WHERE t.UserId = @UserId;
+END
+
+
+
